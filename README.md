@@ -2,7 +2,7 @@
 
 # About
 
-This project aims to create a PDF Mushaf specifically matching the limitations of the Amazon Kindle (1440 x 1080).
+This project aims to create a PDF Mushaf specifically matching the limitations of the Amazon Kindle (1440 x 1080 / 3.6" x 4.8" / 300ppi).
 
 # To Do
 
